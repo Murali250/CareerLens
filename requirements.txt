@@ -1,0 +1,9 @@
+streamlit>=1.46
+python-dotenv
+pydantic>=2.0
+groq
+pypdf
+pymupdf
+python-docx
+fastembed
+numpy
